@@ -1,0 +1,19 @@
+body{
+    background-image: url("../images/background.png");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    font-family: 'Old Standard TT', serif;
+    color: #2C302E;
+}
+.headBox , #schedBox, #addBox{
+    background: rgb(152, 135, 159);
+    font-weight: bolder;
+}
+.card-body{
+    background-color: rgb(152, 135, 159);
+}
+.form-control{
+    background-color:rgb(152, 135, 159);
+    opacity: .6;
+}
