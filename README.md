@@ -1,5 +1,7 @@
 # ***Train Scheduler***
 
+To view a screenshot of the Realtime Database, please visit this link: https://mrkr.io/s/5e31005ce735b75f9f306297/0
+
 ### ***Overview***
 
 This assignment a train schedule application was created incorporating Firebase to host the arrivals and departure data. The app retreives and manipulates this information with Moment.js. The website provides up-to-date train information such as their names, arrival times, minutes to arrival and departure times. 
